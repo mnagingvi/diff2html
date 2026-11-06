@@ -12,7 +12,7 @@
 
 - Before sending a pull request for a feature, be sure to run tests with `npm run test`.
 
-- Use the same coding style as the rest of the codebase, most of the check can be performed with `npm run run lint`.
+- Use the same coding style as the rest of the codebase, most of the checks can be performed with `npm run run lint`.
 
 - Use `git rebase` (not `git merge`) to sync your work from time to time with the master branch.
 
@@ -44,7 +44,7 @@ being fixed, etc. etc.
 The body of the commit message can be several paragraphs, and
 please do proper word-wrap and keep columns shorter than about
 72 characters or so. That way `git log` will show things
-nicely even when it is indented.
+nicely when it is indented.
 ```
 
 ### Developer's Certificate of Origin 1.0
